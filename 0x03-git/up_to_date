@@ -1,2 +1,3 @@
 #!/bin/bash 
 echo "uptodate"
+echo "second pulling"
