@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "this is up todate"
+
+echo "it isup to date"
